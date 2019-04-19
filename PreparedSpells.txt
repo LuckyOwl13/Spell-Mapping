@@ -1,0 +1,9 @@
+Minor Illusion,0,Illusion
+Shocking Grasp,0,Evocation
+Prestidigitation,0,Transmutation
+Ice Knife,1,Evocation
+Unseen Servant,1,Conjuration
+Protect Evil/Good,1,Abjuration
+Shield,1,Abjuration
+Silent Image,1,Illusion
+Grease,1,Conjuration

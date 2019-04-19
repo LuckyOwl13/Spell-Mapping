@@ -1,0 +1,11 @@
+Minor Illusion,0,Illusion
+Shocking Grasp,0,Evocation
+Ice Knife,1,Evocation
+Burning Hands,1,Evocation
+Unseen Servant,1,Conjuration
+Silent Image,1,Illusion
+Disguise Self,1,Illusion
+Blur,2,Illusion
+Invisibility,2,Illusion
+Flame Blade,2,Evocation
+Darkness,2,Evocation

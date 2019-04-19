@@ -1,0 +1,13 @@
+Minor Illusion,0,Illusion
+Mold Earth,0,Transmutation
+Frostbite,0,Evocation
+Mending,0,Transmutation
+Cure Wounds,1,Evocation
+Earth Tremor,1,Evocation
+Healing Word,1,Evocation
+Absorb Elements,1,Abjuration
+Dust Devil,2,Conjuration
+Moonbeam,2,Evocation
+Lesstoration,2,Abjuration
+Heat Metal,2,Transmutation
+Conjure Animals,3,Conjuration
